@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 
 class Program
 {
-
+    /// 
     private static readonly object _consoleLock = new object();
 
     static async Task Main(string[] args)
